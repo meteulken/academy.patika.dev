@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mete_\\Desktop\\patika\\academy.patika.dev\\operatorler\\operators\\operators.csproj": {}
+    "c:\\Users\\mete_\\Desktop\\patika\\academy.patika.dev\\operatorler\\operators\\operators.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mete_\\Desktop\\patika\\academy.patika.dev\\operatorler\\operators\\operators.csproj": {
+    "c:\\Users\\mete_\\Desktop\\patika\\academy.patika.dev\\operatorler\\operators\\operators.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mete_\\Desktop\\patika\\academy.patika.dev\\operatorler\\operators\\operators.csproj",
+        "projectUniqueName": "c:\\Users\\mete_\\Desktop\\patika\\academy.patika.dev\\operatorler\\operators\\operators.csproj",
         "projectName": "operators",
-        "projectPath": "C:\\Users\\mete_\\Desktop\\patika\\academy.patika.dev\\operatorler\\operators\\operators.csproj",
+        "projectPath": "c:\\Users\\mete_\\Desktop\\patika\\academy.patika.dev\\operatorler\\operators\\operators.csproj",
         "packagesPath": "C:\\Users\\mete_\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mete_\\Desktop\\patika\\academy.patika.dev\\operatorler\\operators\\obj\\",
+        "outputPath": "c:\\Users\\mete_\\Desktop\\patika\\academy.patika.dev\\operatorler\\operators\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mete_\\AppData\\Roaming\\NuGet\\NuGet.Config"

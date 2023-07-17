@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mete_\\Desktop\\patika\\academy.patika.dev\\academy.patika.dev.csproj": {}
+    "c:\\Users\\mete_\\Desktop\\patika\\academy.patika.dev\\degiskenler\\academy.patika.dev.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mete_\\Desktop\\patika\\academy.patika.dev\\academy.patika.dev.csproj": {
+    "c:\\Users\\mete_\\Desktop\\patika\\academy.patika.dev\\degiskenler\\academy.patika.dev.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mete_\\Desktop\\patika\\academy.patika.dev\\academy.patika.dev.csproj",
+        "projectUniqueName": "c:\\Users\\mete_\\Desktop\\patika\\academy.patika.dev\\degiskenler\\academy.patika.dev.csproj",
         "projectName": "academy.patika.dev",
-        "projectPath": "C:\\Users\\mete_\\Desktop\\patika\\academy.patika.dev\\academy.patika.dev.csproj",
+        "projectPath": "c:\\Users\\mete_\\Desktop\\patika\\academy.patika.dev\\degiskenler\\academy.patika.dev.csproj",
         "packagesPath": "C:\\Users\\mete_\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mete_\\Desktop\\patika\\academy.patika.dev\\obj\\",
+        "outputPath": "c:\\Users\\mete_\\Desktop\\patika\\academy.patika.dev\\degiskenler\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mete_\\AppData\\Roaming\\NuGet\\NuGet.Config"
