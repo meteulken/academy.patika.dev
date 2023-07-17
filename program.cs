@@ -1,58 +1,28 @@
-using System;
+﻿// See https://aka.ms/new-console-template for more information
+Console.WriteLine("Hello, World!");
 
-class Program
-{
-    static void Main(string[] args)
-    {
-        // Tam sayılar
-        int integerVariable = 10; // 4 byte
-        long longVariable = 1000000; // 8 byte
-        short shortVariable = 5; // 2 byte
-        byte byteVariable = 255; // 1 byte
-
-        // Ondalık sayılar
-        float floatVariable = 3.14f; // 4 byte
-        double doubleVariable = 3.14159; // 8 byte
-        decimal decimalVariable = 3.14159265359m; // 16 byte
-
-        // Metinler
-        string stringVariable = "Merhaba, Dünya!";
-
-        // Karakterler
-        char charVariable = 'A'; // 2 byte
-
-        // Mantıksal değerler
-        bool boolVariable = true; // 1 byte
-
-        // Tarih ve saat
-        DateTime dateTimeVariable = DateTime.Now; // 8 byte
-
-        // Diziler
-        int[] arrayVariable = { 1, 2, 3, 4, 5 }; 
-
-        // Nesneler
-        object objectVariable = new object();
-        object obj1 = 21;
-        object obj2 = "Merhana";
+        // Aritmetik operatörler oluşturulan değişkenler üzerinde işlem yapar. 
+        // Toplama, çıkarma, çarpma, bölme, mod alma ve arttırma işlemleri yapılabilir.
+        int a = 10;
+        int b = 5;
+        int c = a + b; // 15
+        int d = a - b; // 5
+        int e = a * b; // 50
+        int f = a / b; // 2
+        int g = a % b; // 0
+        int h = a++; // 10
+        int i = ++a; // 12
+        int j = a--; // 12
+        int k = --a; // 10
+        Console.WriteLine("a: " + a);
+        Console.WriteLine("b: " + b);
+        Console.WriteLine("c: " + c);
+        Console.WriteLine("d: " + d);
+        Console.WriteLine("e: " + e);
+        Console.WriteLine("f: " + f);
+        Console.WriteLine("g: " + g);
+        Console.WriteLine("h: " + h);
+        Console.WriteLine("i: " + i);
+        Console.WriteLine("j: " + j);
+        Console.WriteLine("k: " + k);
         
-        // Değişken dönüşümleri
-        
-        double num1 = 3.14;
-        int num2 = (int)num1;
-        float num3 = 2.5f;
-        int num4 = Convert.ToInt32(num3);
-        string str = num4.ToString();
-        
-        // Çıktılar
-
-        Console.WriteLine("Tam sayı: " + integerVariable);
-        Console.WriteLine("Ondalık sayı: " + floatVariable);
-        Console.WriteLine("Metin: " + stringVariable);
-        Console.WriteLine("Mantıksal: " + boolVariable);
-        Console.WriteLine("Tarih ve saat: " + dateTimeVariable);
-        Console.WriteLine("Dizi elemanı: " + arrayVariable[0]);
-        Console.WriteLine("Nesne türü: " + objectVariable.GetType());
-
-        Console.ReadLine();
-    }
-}

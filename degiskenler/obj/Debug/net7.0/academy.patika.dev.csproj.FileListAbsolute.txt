@@ -1,0 +1,15 @@
+C:\Users\mete_\Desktop\patika\academy.patika.dev\bin\Debug\net7.0\academy.patika.dev.exe
+C:\Users\mete_\Desktop\patika\academy.patika.dev\bin\Debug\net7.0\academy.patika.dev.deps.json
+C:\Users\mete_\Desktop\patika\academy.patika.dev\bin\Debug\net7.0\academy.patika.dev.runtimeconfig.json
+C:\Users\mete_\Desktop\patika\academy.patika.dev\bin\Debug\net7.0\academy.patika.dev.dll
+C:\Users\mete_\Desktop\patika\academy.patika.dev\bin\Debug\net7.0\academy.patika.dev.pdb
+C:\Users\mete_\Desktop\patika\academy.patika.dev\obj\Debug\net7.0\academy.patika.dev.csproj.AssemblyReference.cache
+C:\Users\mete_\Desktop\patika\academy.patika.dev\obj\Debug\net7.0\academy.patika.dev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mete_\Desktop\patika\academy.patika.dev\obj\Debug\net7.0\academy.patika.dev.AssemblyInfoInputs.cache
+C:\Users\mete_\Desktop\patika\academy.patika.dev\obj\Debug\net7.0\academy.patika.dev.AssemblyInfo.cs
+C:\Users\mete_\Desktop\patika\academy.patika.dev\obj\Debug\net7.0\academy.patika.dev.csproj.CoreCompileInputs.cache
+C:\Users\mete_\Desktop\patika\academy.patika.dev\obj\Debug\net7.0\academy.patika.dev.dll
+C:\Users\mete_\Desktop\patika\academy.patika.dev\obj\Debug\net7.0\refint\academy.patika.dev.dll
+C:\Users\mete_\Desktop\patika\academy.patika.dev\obj\Debug\net7.0\academy.patika.dev.pdb
+C:\Users\mete_\Desktop\patika\academy.patika.dev\obj\Debug\net7.0\academy.patika.dev.genruntimeconfig.cache
+C:\Users\mete_\Desktop\patika\academy.patika.dev\obj\Debug\net7.0\ref\academy.patika.dev.dll
