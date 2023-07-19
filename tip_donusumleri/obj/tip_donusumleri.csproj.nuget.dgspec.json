@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mete_\\Desktop\\patika\\academy.patika.dev\\tip_donusumleri\\tip_donusumleri\\tip_donusumleri.csproj": {}
+    "C:\\Users\\mete_\\Desktop\\patika\\academy.patika.dev\\tip_donusumleri\\tip_donusumleri.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mete_\\Desktop\\patika\\academy.patika.dev\\tip_donusumleri\\tip_donusumleri\\tip_donusumleri.csproj": {
+    "C:\\Users\\mete_\\Desktop\\patika\\academy.patika.dev\\tip_donusumleri\\tip_donusumleri.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mete_\\Desktop\\patika\\academy.patika.dev\\tip_donusumleri\\tip_donusumleri\\tip_donusumleri.csproj",
+        "projectUniqueName": "C:\\Users\\mete_\\Desktop\\patika\\academy.patika.dev\\tip_donusumleri\\tip_donusumleri.csproj",
         "projectName": "tip_donusumleri",
-        "projectPath": "C:\\Users\\mete_\\Desktop\\patika\\academy.patika.dev\\tip_donusumleri\\tip_donusumleri\\tip_donusumleri.csproj",
+        "projectPath": "C:\\Users\\mete_\\Desktop\\patika\\academy.patika.dev\\tip_donusumleri\\tip_donusumleri.csproj",
         "packagesPath": "C:\\Users\\mete_\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mete_\\Desktop\\patika\\academy.patika.dev\\tip_donusumleri\\tip_donusumleri\\obj\\",
+        "outputPath": "C:\\Users\\mete_\\Desktop\\patika\\academy.patika.dev\\tip_donusumleri\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mete_\\AppData\\Roaming\\NuGet\\NuGet.Config"
