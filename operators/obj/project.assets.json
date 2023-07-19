@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mete_\\Desktop\\patika\\academy.patika.dev\\operatorler\\operators\\operators.csproj",
+      "projectUniqueName": "C:\\Users\\mete_\\Desktop\\patika\\academy.patika.dev\\operators\\operators.csproj",
       "projectName": "operators",
-      "projectPath": "C:\\Users\\mete_\\Desktop\\patika\\academy.patika.dev\\operatorler\\operators\\operators.csproj",
+      "projectPath": "C:\\Users\\mete_\\Desktop\\patika\\academy.patika.dev\\operators\\operators.csproj",
       "packagesPath": "C:\\Users\\mete_\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mete_\\Desktop\\patika\\academy.patika.dev\\operatorler\\operators\\obj\\",
+      "outputPath": "C:\\Users\\mete_\\Desktop\\patika\\academy.patika.dev\\operators\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mete_\\AppData\\Roaming\\NuGet\\NuGet.Config"
