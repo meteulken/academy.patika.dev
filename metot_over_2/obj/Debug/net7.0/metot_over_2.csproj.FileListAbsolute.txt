@@ -1,0 +1,15 @@
+C:\Users\mete_\Desktop\patika\academy.patika.dev\metot_over_2\bin\Debug\net7.0\metot_over_2.exe
+C:\Users\mete_\Desktop\patika\academy.patika.dev\metot_over_2\bin\Debug\net7.0\metot_over_2.deps.json
+C:\Users\mete_\Desktop\patika\academy.patika.dev\metot_over_2\bin\Debug\net7.0\metot_over_2.runtimeconfig.json
+C:\Users\mete_\Desktop\patika\academy.patika.dev\metot_over_2\bin\Debug\net7.0\metot_over_2.dll
+C:\Users\mete_\Desktop\patika\academy.patika.dev\metot_over_2\bin\Debug\net7.0\metot_over_2.pdb
+C:\Users\mete_\Desktop\patika\academy.patika.dev\metot_over_2\obj\Debug\net7.0\metot_over_2.csproj.AssemblyReference.cache
+C:\Users\mete_\Desktop\patika\academy.patika.dev\metot_over_2\obj\Debug\net7.0\metot_over_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mete_\Desktop\patika\academy.patika.dev\metot_over_2\obj\Debug\net7.0\metot_over_2.AssemblyInfoInputs.cache
+C:\Users\mete_\Desktop\patika\academy.patika.dev\metot_over_2\obj\Debug\net7.0\metot_over_2.AssemblyInfo.cs
+C:\Users\mete_\Desktop\patika\academy.patika.dev\metot_over_2\obj\Debug\net7.0\metot_over_2.csproj.CoreCompileInputs.cache
+C:\Users\mete_\Desktop\patika\academy.patika.dev\metot_over_2\obj\Debug\net7.0\metot_over_2.dll
+C:\Users\mete_\Desktop\patika\academy.patika.dev\metot_over_2\obj\Debug\net7.0\refint\metot_over_2.dll
+C:\Users\mete_\Desktop\patika\academy.patika.dev\metot_over_2\obj\Debug\net7.0\metot_over_2.pdb
+C:\Users\mete_\Desktop\patika\academy.patika.dev\metot_over_2\obj\Debug\net7.0\metot_over_2.genruntimeconfig.cache
+C:\Users\mete_\Desktop\patika\academy.patika.dev\metot_over_2\obj\Debug\net7.0\ref\metot_over_2.dll
