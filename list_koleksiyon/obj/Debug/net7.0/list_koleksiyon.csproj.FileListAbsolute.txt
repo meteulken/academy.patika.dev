@@ -1,0 +1,15 @@
+C:\Users\mete_\Desktop\patika\academy.patika.dev\list_koleksiyon\obj\Debug\net7.0\list_koleksiyon.csproj.AssemblyReference.cache
+C:\Users\mete_\Desktop\patika\academy.patika.dev\list_koleksiyon\obj\Debug\net7.0\list_koleksiyon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mete_\Desktop\patika\academy.patika.dev\list_koleksiyon\obj\Debug\net7.0\list_koleksiyon.AssemblyInfoInputs.cache
+C:\Users\mete_\Desktop\patika\academy.patika.dev\list_koleksiyon\obj\Debug\net7.0\list_koleksiyon.AssemblyInfo.cs
+C:\Users\mete_\Desktop\patika\academy.patika.dev\list_koleksiyon\obj\Debug\net7.0\list_koleksiyon.csproj.CoreCompileInputs.cache
+C:\Users\mete_\Desktop\patika\academy.patika.dev\list_koleksiyon\bin\Debug\net7.0\list_koleksiyon.exe
+C:\Users\mete_\Desktop\patika\academy.patika.dev\list_koleksiyon\bin\Debug\net7.0\list_koleksiyon.deps.json
+C:\Users\mete_\Desktop\patika\academy.patika.dev\list_koleksiyon\bin\Debug\net7.0\list_koleksiyon.runtimeconfig.json
+C:\Users\mete_\Desktop\patika\academy.patika.dev\list_koleksiyon\bin\Debug\net7.0\list_koleksiyon.dll
+C:\Users\mete_\Desktop\patika\academy.patika.dev\list_koleksiyon\bin\Debug\net7.0\list_koleksiyon.pdb
+C:\Users\mete_\Desktop\patika\academy.patika.dev\list_koleksiyon\obj\Debug\net7.0\list_koleksiyon.dll
+C:\Users\mete_\Desktop\patika\academy.patika.dev\list_koleksiyon\obj\Debug\net7.0\refint\list_koleksiyon.dll
+C:\Users\mete_\Desktop\patika\academy.patika.dev\list_koleksiyon\obj\Debug\net7.0\list_koleksiyon.pdb
+C:\Users\mete_\Desktop\patika\academy.patika.dev\list_koleksiyon\obj\Debug\net7.0\list_koleksiyon.genruntimeconfig.cache
+C:\Users\mete_\Desktop\patika\academy.patika.dev\list_koleksiyon\obj\Debug\net7.0\ref\list_koleksiyon.dll
