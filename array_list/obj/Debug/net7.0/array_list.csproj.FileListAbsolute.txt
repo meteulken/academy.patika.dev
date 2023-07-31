@@ -1,0 +1,15 @@
+C:\Users\mete_\Desktop\patika\academy.patika.dev\array_list\bin\Debug\net7.0\array_list.exe
+C:\Users\mete_\Desktop\patika\academy.patika.dev\array_list\bin\Debug\net7.0\array_list.deps.json
+C:\Users\mete_\Desktop\patika\academy.patika.dev\array_list\bin\Debug\net7.0\array_list.runtimeconfig.json
+C:\Users\mete_\Desktop\patika\academy.patika.dev\array_list\bin\Debug\net7.0\array_list.dll
+C:\Users\mete_\Desktop\patika\academy.patika.dev\array_list\bin\Debug\net7.0\array_list.pdb
+C:\Users\mete_\Desktop\patika\academy.patika.dev\array_list\obj\Debug\net7.0\array_list.csproj.AssemblyReference.cache
+C:\Users\mete_\Desktop\patika\academy.patika.dev\array_list\obj\Debug\net7.0\array_list.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mete_\Desktop\patika\academy.patika.dev\array_list\obj\Debug\net7.0\array_list.AssemblyInfoInputs.cache
+C:\Users\mete_\Desktop\patika\academy.patika.dev\array_list\obj\Debug\net7.0\array_list.AssemblyInfo.cs
+C:\Users\mete_\Desktop\patika\academy.patika.dev\array_list\obj\Debug\net7.0\array_list.csproj.CoreCompileInputs.cache
+C:\Users\mete_\Desktop\patika\academy.patika.dev\array_list\obj\Debug\net7.0\array_list.dll
+C:\Users\mete_\Desktop\patika\academy.patika.dev\array_list\obj\Debug\net7.0\refint\array_list.dll
+C:\Users\mete_\Desktop\patika\academy.patika.dev\array_list\obj\Debug\net7.0\array_list.pdb
+C:\Users\mete_\Desktop\patika\academy.patika.dev\array_list\obj\Debug\net7.0\array_list.genruntimeconfig.cache
+C:\Users\mete_\Desktop\patika\academy.patika.dev\array_list\obj\Debug\net7.0\ref\array_list.dll
