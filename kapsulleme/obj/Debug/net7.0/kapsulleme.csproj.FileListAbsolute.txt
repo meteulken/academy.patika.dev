@@ -1,0 +1,15 @@
+C:\Users\mete_\Desktop\patika\academy.patika.dev\kapsulleme\obj\Debug\net7.0\kapsulleme.csproj.AssemblyReference.cache
+C:\Users\mete_\Desktop\patika\academy.patika.dev\kapsulleme\obj\Debug\net7.0\kapsulleme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mete_\Desktop\patika\academy.patika.dev\kapsulleme\obj\Debug\net7.0\kapsulleme.AssemblyInfoInputs.cache
+C:\Users\mete_\Desktop\patika\academy.patika.dev\kapsulleme\obj\Debug\net7.0\kapsulleme.AssemblyInfo.cs
+C:\Users\mete_\Desktop\patika\academy.patika.dev\kapsulleme\obj\Debug\net7.0\kapsulleme.csproj.CoreCompileInputs.cache
+C:\Users\mete_\Desktop\patika\academy.patika.dev\kapsulleme\bin\Debug\net7.0\kapsulleme.exe
+C:\Users\mete_\Desktop\patika\academy.patika.dev\kapsulleme\bin\Debug\net7.0\kapsulleme.deps.json
+C:\Users\mete_\Desktop\patika\academy.patika.dev\kapsulleme\bin\Debug\net7.0\kapsulleme.runtimeconfig.json
+C:\Users\mete_\Desktop\patika\academy.patika.dev\kapsulleme\bin\Debug\net7.0\kapsulleme.dll
+C:\Users\mete_\Desktop\patika\academy.patika.dev\kapsulleme\bin\Debug\net7.0\kapsulleme.pdb
+C:\Users\mete_\Desktop\patika\academy.patika.dev\kapsulleme\obj\Debug\net7.0\kapsulleme.dll
+C:\Users\mete_\Desktop\patika\academy.patika.dev\kapsulleme\obj\Debug\net7.0\refint\kapsulleme.dll
+C:\Users\mete_\Desktop\patika\academy.patika.dev\kapsulleme\obj\Debug\net7.0\kapsulleme.pdb
+C:\Users\mete_\Desktop\patika\academy.patika.dev\kapsulleme\obj\Debug\net7.0\kapsulleme.genruntimeconfig.cache
+C:\Users\mete_\Desktop\patika\academy.patika.dev\kapsulleme\obj\Debug\net7.0\ref\kapsulleme.dll
