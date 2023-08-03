@@ -12,7 +12,7 @@ enum Gunler
     Salı,
     Çarşamba,
     Perşembe,
-    Cuma,
+    Cuma = 23,
     Cumartesi,
     Pazar
 }
