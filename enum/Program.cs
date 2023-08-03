@@ -16,3 +16,11 @@ enum Gunler
     Cumartesi,
     Pazar
 }
+
+enum HavaDurumu : byte
+{
+    Soguk = 5,
+    Normal = 20,
+    Sicak = 25,
+    CokSicak = 30
+}
