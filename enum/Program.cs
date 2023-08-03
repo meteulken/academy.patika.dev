@@ -3,4 +3,16 @@
 
 // enum tanımlama
 
+Console.WriteLine(Gunler.Pazar);
+Console.WriteLine((int)Gunler.Cumartesi);
 
+enum Gunler
+{
+    Pazartesi = 1,
+    Salı,
+    Çarşamba,
+    Perşembe,
+    Cuma,
+    Cumartesi,
+    Pazar
+}
