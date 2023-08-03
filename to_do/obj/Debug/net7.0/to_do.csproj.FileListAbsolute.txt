@@ -1,0 +1,15 @@
+C:\Users\mete_\Desktop\patika\academy.patika.dev\to_do\bin\Debug\net7.0\to_do.exe
+C:\Users\mete_\Desktop\patika\academy.patika.dev\to_do\bin\Debug\net7.0\to_do.deps.json
+C:\Users\mete_\Desktop\patika\academy.patika.dev\to_do\bin\Debug\net7.0\to_do.runtimeconfig.json
+C:\Users\mete_\Desktop\patika\academy.patika.dev\to_do\bin\Debug\net7.0\to_do.dll
+C:\Users\mete_\Desktop\patika\academy.patika.dev\to_do\bin\Debug\net7.0\to_do.pdb
+C:\Users\mete_\Desktop\patika\academy.patika.dev\to_do\obj\Debug\net7.0\to_do.csproj.AssemblyReference.cache
+C:\Users\mete_\Desktop\patika\academy.patika.dev\to_do\obj\Debug\net7.0\to_do.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mete_\Desktop\patika\academy.patika.dev\to_do\obj\Debug\net7.0\to_do.AssemblyInfoInputs.cache
+C:\Users\mete_\Desktop\patika\academy.patika.dev\to_do\obj\Debug\net7.0\to_do.AssemblyInfo.cs
+C:\Users\mete_\Desktop\patika\academy.patika.dev\to_do\obj\Debug\net7.0\to_do.csproj.CoreCompileInputs.cache
+C:\Users\mete_\Desktop\patika\academy.patika.dev\to_do\obj\Debug\net7.0\to_do.dll
+C:\Users\mete_\Desktop\patika\academy.patika.dev\to_do\obj\Debug\net7.0\refint\to_do.dll
+C:\Users\mete_\Desktop\patika\academy.patika.dev\to_do\obj\Debug\net7.0\to_do.pdb
+C:\Users\mete_\Desktop\patika\academy.patika.dev\to_do\obj\Debug\net7.0\to_do.genruntimeconfig.cache
+C:\Users\mete_\Desktop\patika\academy.patika.dev\to_do\obj\Debug\net7.0\ref\to_do.dll
