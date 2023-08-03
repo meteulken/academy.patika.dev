@@ -15,3 +15,7 @@ enum Days
     Saturday,
     Sunday
 }
+
+// enum kullanımı
+
+Days day = Days.Monday;
