@@ -8,6 +8,12 @@
         {
             Console.WriteLine("Bitkiler fotosentez yapar.");
         }
+
+        public override void UyaranlaraTepki()
+        {
+            // base.UyaranlaraTepki(); // base class'ın methodunu çağırmak için kullanılır.
+            Console.WriteLine("Bitkiler güneşe tepki verir."); // override edilen methodun içeriği değiştirilir.
+        }
     }
 
     public class TohumluBitkiler : Bitkiler
@@ -18,6 +24,7 @@
             base.Beslenme();
             base.Bosaltim();
             base.Solunum();
+            base.UyaranlaraTepki();
         } 
         public void TohumlaCogalma()
         {

@@ -9,9 +9,15 @@ using System;
 
 public class Hayvanlar:Canlilar
 {
-    protected void Adaptasyon()
+    public void Adaptasyon()
     {
-        System.Console.WriteLine("Hayvanlar adaptasyon kurabilir");
+        Console.WriteLine("Hayvanlar adaptasyon kurabilir");
+    }
+
+    public override void UyaranlaraTepki()
+    {
+        base.UyaranlaraTepki();
+        Console.WriteLine("Hayvanlar uyaranlara tepki verir.");
     }
 
 }
@@ -27,7 +33,7 @@ public class Sürüngenler:Hayvanlar{
 
     public void SurunerekHareketEtmek()
     {
-        System.Console.WriteLine("Sürüngeler sürünerek hareket ederler.");
+        Console.WriteLine("Sürüngeler sürünerek hareket ederler.");
     }
 }
 
@@ -39,9 +45,10 @@ public class Kuslar:Hayvanlar
         base.Beslenme();
         base.Bosaltim();
         base.Solunum();
+        base.UyaranlaraTepki();
     }
     public void Ucmak()
     {
-        System.Console.WriteLine("Kuşlar uçar");
+        Console.WriteLine("Kuşlar uçar");
     }
 }

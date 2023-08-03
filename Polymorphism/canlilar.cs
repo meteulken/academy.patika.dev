@@ -1,5 +1,5 @@
 
-public class Canlilar
+public sealed class Canlilar
 {
     protected void Beslenme()
     {
@@ -11,9 +11,14 @@ public class Canlilar
         Console.WriteLine("Canlılar solunum yapar.");
     }
 
-    protected void Bosaltim()
-    {
+    public void Bosaltim()
+    { 
         Console.WriteLine("Canlılar boşaltım yapar.");
+    }
+
+    public virtual void UyaranlaraTepki()
+    {
+        Console.WriteLine("Canlılar uyaranlara tepki verir.");
     }
 
 }
