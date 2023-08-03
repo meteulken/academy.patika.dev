@@ -1,5 +1,5 @@
 
-class Canlilar
+public class Canlilar
 {
     public void Beslenme()
     {

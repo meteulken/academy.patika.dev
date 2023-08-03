@@ -1,24 +1,32 @@
 
-class Bitkiler
-{
-    public void FotosentezYapmak()
+// bitkiler.cs(12,16): error CS1520: Yöntemin bir dönüş türü olmalıdır
+// çözüm: TohumlaCogalma() methodunun dönüş tipi void olmalı.
+
+    public class Bitkiler : Canlilar
     {
-        Console.WriteLine("Bitkiler fotosentez yapar.");
+        protected void FotosentezYapmak()
+        {
+            Console.WriteLine("Bitkiler fotosentez yapar.");
+        }
     }
 
-    public class TohumluBitkiler
+    public class TohumluBitkiler : Bitkiler
     {
-        public TohumlaCogalma()
+        public TohumluBitkiler()
+        {
+            base.FotosentezYapmak(); // base class'ın methodunu çağırmak için kullanılır.
+        } 
+        public void TohumlaCogalma()
         {
             Console.WriteLine("Tohumlu bitkiler tohumla çoğalır.");
         }
     }
 
-    public class TohumsuzBitkiler
+
+    public class TohumsuzBitkiler : Bitkiler
     {
         public void SporlaCogalma()
         {
             Console.WriteLine("Tohumsuz bitkiler sporla çoğalır.");
         }
     }
-}
