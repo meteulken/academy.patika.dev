@@ -6,4 +6,4 @@ namespace otomobils
         Marka HangiMarkaninAraci();
         Renk StandartRengiNe();
     }
-}
+} 

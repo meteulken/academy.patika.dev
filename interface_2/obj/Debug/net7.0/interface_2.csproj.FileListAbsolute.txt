@@ -1,0 +1,15 @@
+C:\Users\mete_\Desktop\patika\academy.patika.dev\interface_2\obj\Debug\net7.0\interface_2.csproj.AssemblyReference.cache
+C:\Users\mete_\Desktop\patika\academy.patika.dev\interface_2\obj\Debug\net7.0\interface_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mete_\Desktop\patika\academy.patika.dev\interface_2\obj\Debug\net7.0\interface_2.AssemblyInfoInputs.cache
+C:\Users\mete_\Desktop\patika\academy.patika.dev\interface_2\obj\Debug\net7.0\interface_2.AssemblyInfo.cs
+C:\Users\mete_\Desktop\patika\academy.patika.dev\interface_2\obj\Debug\net7.0\interface_2.csproj.CoreCompileInputs.cache
+C:\Users\mete_\Desktop\patika\academy.patika.dev\interface_2\bin\Debug\net7.0\interface_2.exe
+C:\Users\mete_\Desktop\patika\academy.patika.dev\interface_2\bin\Debug\net7.0\interface_2.deps.json
+C:\Users\mete_\Desktop\patika\academy.patika.dev\interface_2\bin\Debug\net7.0\interface_2.runtimeconfig.json
+C:\Users\mete_\Desktop\patika\academy.patika.dev\interface_2\bin\Debug\net7.0\interface_2.dll
+C:\Users\mete_\Desktop\patika\academy.patika.dev\interface_2\bin\Debug\net7.0\interface_2.pdb
+C:\Users\mete_\Desktop\patika\academy.patika.dev\interface_2\obj\Debug\net7.0\interface_2.dll
+C:\Users\mete_\Desktop\patika\academy.patika.dev\interface_2\obj\Debug\net7.0\refint\interface_2.dll
+C:\Users\mete_\Desktop\patika\academy.patika.dev\interface_2\obj\Debug\net7.0\interface_2.pdb
+C:\Users\mete_\Desktop\patika\academy.patika.dev\interface_2\obj\Debug\net7.0\interface_2.genruntimeconfig.cache
+C:\Users\mete_\Desktop\patika\academy.patika.dev\interface_2\obj\Debug\net7.0\ref\interface_2.dll
