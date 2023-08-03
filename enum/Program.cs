@@ -40,3 +40,5 @@ enum Months
     November = 11,
     December = 12
 }
+
+Months month = Months.January;
