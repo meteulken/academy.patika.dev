@@ -7,26 +7,41 @@
 using System;
 
 
-public class Hayvanlar : Canlilar
+public class Hayvanlar:Canlilar
 {
     protected void Adaptasyon()
     {
-        Console.WriteLine("Hayvanlar adaptasyon yapar.");
+        System.Console.WriteLine("Hayvanlar adaptasyon kurabilir");
     }
+
 }
 
-public class Surungenler : Hayvanlar
-{
-    public void SurunerekHareketEderler()
+public class Sürüngenler:Hayvanlar{
+    public Sürüngenler()
     {
-        Console.WriteLine("Sürüngenler sürünerek hareket eder.");
+        base.Adaptasyon();
+        base.Beslenme();
+        base.Bosaltim();
+        base.Solunum();
+    }
+
+    public void SurunerekHareketEtmek()
+    {
+        System.Console.WriteLine("Sürüngeler sürünerek hareket ederler.");
     }
 }
 
-public class Kuslar : Hayvanlar
+public class Kuslar:Hayvanlar
 {
+    public Kuslar()
+    {
+        base.Adaptasyon();
+        base.Beslenme();
+        base.Bosaltim();
+        base.Solunum();
+    }
     public void Ucmak()
     {
-        Console.WriteLine("Kuşlar uçar.");
+        System.Console.WriteLine("Kuşlar uçar");
     }
 }

@@ -1,17 +1,17 @@
 
 public class Canlilar
 {
-    public void Beslenme()
+    protected void Beslenme()
     {
         Console.WriteLine("Canlılar beslenir.");
     }
 
-    public void Solunum()
+    protected void Solunum()
     {
         Console.WriteLine("Canlılar solunum yapar.");
     }
 
-    public void Bosaltim()
+    protected void Bosaltim()
     {
         Console.WriteLine("Canlılar boşaltım yapar.");
     }
