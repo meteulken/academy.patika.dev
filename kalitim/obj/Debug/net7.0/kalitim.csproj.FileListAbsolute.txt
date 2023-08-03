@@ -1,0 +1,15 @@
+C:\Users\mete_\Desktop\patika\academy.patika.dev\kalitim\bin\Debug\net7.0\kalitim.exe
+C:\Users\mete_\Desktop\patika\academy.patika.dev\kalitim\bin\Debug\net7.0\kalitim.deps.json
+C:\Users\mete_\Desktop\patika\academy.patika.dev\kalitim\bin\Debug\net7.0\kalitim.runtimeconfig.json
+C:\Users\mete_\Desktop\patika\academy.patika.dev\kalitim\bin\Debug\net7.0\kalitim.dll
+C:\Users\mete_\Desktop\patika\academy.patika.dev\kalitim\bin\Debug\net7.0\kalitim.pdb
+C:\Users\mete_\Desktop\patika\academy.patika.dev\kalitim\obj\Debug\net7.0\kalitim.csproj.AssemblyReference.cache
+C:\Users\mete_\Desktop\patika\academy.patika.dev\kalitim\obj\Debug\net7.0\kalitim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mete_\Desktop\patika\academy.patika.dev\kalitim\obj\Debug\net7.0\kalitim.AssemblyInfoInputs.cache
+C:\Users\mete_\Desktop\patika\academy.patika.dev\kalitim\obj\Debug\net7.0\kalitim.AssemblyInfo.cs
+C:\Users\mete_\Desktop\patika\academy.patika.dev\kalitim\obj\Debug\net7.0\kalitim.csproj.CoreCompileInputs.cache
+C:\Users\mete_\Desktop\patika\academy.patika.dev\kalitim\obj\Debug\net7.0\kalitim.dll
+C:\Users\mete_\Desktop\patika\academy.patika.dev\kalitim\obj\Debug\net7.0\refint\kalitim.dll
+C:\Users\mete_\Desktop\patika\academy.patika.dev\kalitim\obj\Debug\net7.0\kalitim.pdb
+C:\Users\mete_\Desktop\patika\academy.patika.dev\kalitim\obj\Debug\net7.0\kalitim.genruntimeconfig.cache
+C:\Users\mete_\Desktop\patika\academy.patika.dev\kalitim\obj\Debug\net7.0\ref\kalitim.dll
